@@ -1,6 +1,6 @@
 # Rak Baca (PWA)
 
-Aplikasi pencatat bacaan. React + Vite + Tailwind + vite-plugin-pwa + axios (teknologi sama dengan modul).
+Aplikasi pencatat bacaan. React + Vite + Tailwind + vite-plugin-pwa + axios (Disclamer aplikasi ini tidak diperlukan database dan dijalankan secara lokal).
 
 **Halaman:** Rak (CRUD buku) · Statistik · Profil (nama, NIM, kelompok)
 
